@@ -6,6 +6,7 @@ file: /courses/7-344-antibiotics-toxins-and-protein-engineering-spring-2007/dfe7
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Protein Engineering
 uid: dfe7b9ed-422d-a749-9c80-4b88e088a088
 ---
 A general introduction to protein engineering and site-specific incorporation of amino acid analogues.
-
