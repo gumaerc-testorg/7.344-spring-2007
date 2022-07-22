@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information about required readings, supplementary
+  readings, and weekly readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: ad2db1e6-eb7f-9f5e-6fc9-860d6d130f61
 ---
@@ -158,7 +163,7 @@ Lu, J., B. Huang, A. Esberg, M. J. O. Johansson, and A. S. Byström. "The Kluyve
 
 RNA sequencing ([PDF - 1.3 MB](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=342589&blobtype=pdf))
 
-Primer extension ([PDF]({{< baseurl >}}/resources/primer_extension))
+Primer extension ({{% resource_link 3fe9c853-ab6a-b351-a55d-4a0420c9ffb3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -187,7 +192,7 @@ Brodersen, D. E., W. M. Clemons Jr., A. P. Carter, R. J. Morgan-Warren, B. T. Wi
 {{< tdopen >}}
 
 
-RNA footprinting - enzymatic and chemical probes ([PDF]({{< baseurl >}}/resources/rna_footprinting))
+RNA footprinting - enzymatic and chemical probes ({{% resource_link 8919082c-efe8-5543-ae9b-7ebd62646ce9 "PDF" %}})
 
 [Helicobacter pylori](http://en.wikipedia.org/wiki/Helicobacter_pylori)
 
@@ -264,7 +269,7 @@ Chin, J. W., T. A. Cropp, J. C. Anderson, M. Mukherji, Z. Zhang, and P. G. Schul
 
 {{< tdclose >}}
 {{< tdopen >}}
-Protein engineering ([PDF]({{< baseurl >}}/resources/protein_engineer))
+Protein engineering ({{% resource_link dfe7b9ed-422d-a749-9c80-4b88e088a088 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
