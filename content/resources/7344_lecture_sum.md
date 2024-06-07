@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture summaries for the course, including an introduction, information
   on antibiotics, toxins, and protein engineering, and an epilogue.
 file: /courses/7-344-antibiotics-toxins-and-protein-engineering-spring-2007/2af264b6a4de92a3d8b1624418c29e02_7344_lecture_sum.pdf
+file_size: 69982
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
