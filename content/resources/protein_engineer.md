@@ -2,7 +2,7 @@
 content_type: resource
 description: A general introduction to protein engineering and site-specific incorporation
   of amino acid analogues.
-file: /courses/7-344-antibiotics-toxins-and-protein-engineering-spring-2007/dfe7b9ed422da7499c804b88e088a088_protein_engineer.pdf
+file: /ol-ocw-studio-app/courses/7-344-antibiotics-toxins-and-protein-engineering-spring-2007/dfe7b9ed422da7499c804b88e088a088_protein_engineer.pdf
 file_size: 284868
 file_type: application/pdf
 learning_resource_types:
