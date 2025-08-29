@@ -73,9 +73,9 @@ Reisbig, R., S. Olsnes, and K. Eiklid. "The Cytotoxic Activity of Shigella Toxin
 
 {{< tdclose >}}{{< tdopen >}}
 
-[In vitro transcription](http://www.ambion.com/techlib/basics/transcription/index.html)
+[In vitro transcription](https://www.thermofisher.com/us/en/home/industrial/pharma-biopharma/nucleic-acid-therapeutic-development-solutions/mrna-research/overview-in-vitro-transcription.html)
 
-[In vitro translation](http://www.ambion.com/techlib/basics/translation/index.html)
+[In vitro translation](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/large-scale-transcription/general-articles/the-basics-in-vitro-translation.html)
 
 [SDS-PAGE](http://en.wikipedia.org/wiki/SDS-PAGE)
 
