@@ -17,19 +17,19 @@ Berg, Jeremy, John Tymoczko, and Lubert Stryer. *Biochemistry*. 5th ed. New York
 
 These sections are well written, relatively short and give the essentials. The text is online, with links provided below:
 
-29\. [Protein synthesis](http://www.ncbi.nlm.nih.gov/books/NBK21154/)
+29\. {{% resource_link "c7c0169a-ca62-45bc-a074-084d91a40bb3" "Protein synthesis" %}}
 
-29.1 [Protein Synthesis Requires the Translation of Nucleotide Sequences Into Amino Acid Sequences](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.section.4125)
+29.1 {{% resource_link "768413f6-1e09-4fd2-b85a-26e592f66759" "Protein Synthesis Requires the Translation of Nucleotide Sequences Into Amino Acid Sequences" %}}
 
-29.2 [Aminoacyl-transfer RNA Synthetases Read the Genetic Code](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.section.4146)
+29.2 {{% resource_link "aa460b29-cd8b-4e50-85a3-1964eb4c39e9" "Aminoacyl-transfer RNA Synthetases Read the Genetic Code" %}}
 
-29.3 [A Ribosome Is a Ribonucleoprotein Particle (70S) Made of a Small (30S) and a Large (50S) Subunit](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.section.4164#4177)
+29.3 {{% resource_link "99896f04-fc70-4b76-bd28-28538110ca96" "A Ribosome Is a Ribonucleoprotein Particle (70S) Made of a Small (30S) and a Large (50S) Subunit" %}}
 
-29.4 [Protein Factors Play Key Roles in Protein Synthesis](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.section.4189#4197)
+29.4 {{% resource_link "bd8fa0e1-7624-442a-9226-38defb551244" "Protein Factors Play Key Roles in Protein Synthesis" %}}
 
-29.5 [Eukaryotic Protein Synthesis Differs from Prokaryotic Protein Synthesis Primarily in Translation Initiation](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.section.4200)
+29.5 {{% resource_link "c1c04188-918c-490f-a176-6106436546c1" "Eukaryotic Protein Synthesis Differs from Prokaryotic Protein Synthesis Primarily in Translation Initiation" %}}
 
-[Protein synthesis: Summary](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=stryer.section.4211)
+{{% resource_link "60836f12-a2ce-43ca-951d-8ead47b5f5f0" "Protein synthesis: Summary" %}}
 
 ## {{< anchor "Supplementary_Readings" >}}{{< /anchor >}}Supplementary Readings
 
@@ -73,11 +73,11 @@ Reisbig, R., S. Olsnes, and K. Eiklid. "The Cytotoxic Activity of Shigella Toxin
 
 {{< tdclose >}}{{< tdopen >}}
 
-[In vitro transcription](https://www.thermofisher.com/us/en/home/industrial/pharma-biopharma/nucleic-acid-therapeutic-development-solutions/mrna-research/overview-in-vitro-transcription.html)
+{{% resource_link "67b4c004-ff06-487b-b97f-c58d190336e7" "In vitro transcription" %}}
 
-[In vitro translation](https://www.thermofisher.com/us/en/home/references/ambion-tech-support/large-scale-transcription/general-articles/the-basics-in-vitro-translation.html)
+{{% resource_link "11e358a9-4547-4743-9cbf-11cfa6ea1e82" "In vitro translation" %}}
 
-[SDS-PAGE](http://en.wikipedia.org/wiki/SDS-PAGE)
+{{% resource_link "638340f9-a39e-45df-9553-0f2099130b2b" "SDS-PAGE" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -91,13 +91,13 @@ Kohno, K., and T. Uchida. "Highly Frequent Single Amino Acid Substitution in Mam
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Two-dimensional gel electrophoresis](http://en.wikipedia.org/wiki/Two-dimensional_gel_electrophoresis)
+{{% resource_link "b26a5999-d52e-4bb2-88eb-f9f93994004a" "Two-dimensional gel electrophoresis" %}}
 
-[Trypsin](http://en.wikipedia.org/wiki/Trypsin)
+{{% resource_link "86148409-b38e-446b-a54c-f8d385865505" "Trypsin" %}}
 
-[Diphtheria](http://textbookofbacteriology.net/diphtheria.html)
+{{% resource_link "28329caf-3c45-493b-9108-33e3b166b3b6" "Diphtheria" %}}
 
-[Pseudomonas](http://textbookofbacteriology.net/pseudomonas.html)
+{{% resource_link "30952e3e-43f9-4e71-8f34-9fe6eaf863f5" "Pseudomonas" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -111,7 +111,7 @@ Lu, J., B. Huang, A. Esberg, M. J. O. Johansson, and A. S. Byström. "The Kluyve
 
 {{< tdclose >}}{{< tdopen >}}
 
-RNA sequencing ([PDF - 1.3 MB](http://www.pubmedcentral.nih.gov/picrender.fcgi?artid=342589&blobtype=pdf))
+RNA sequencing ({{% resource_link "35cd9612-98a9-46cd-b626-b5a3fd7b6c08" "PDF - 1.3 MB" %}})
 
 Primer extension ({{% resource_link "3fe9c853-ab6a-b351-a55d-4a0420c9ffb3" "PDF" %}})
 
@@ -133,9 +133,9 @@ Brodersen, D. E., W. M. Clemons Jr., A. P. Carter, R. J. Morgan-Warren, B. T. Wi
 
 RNA footprinting - enzymatic and chemical probes ({{% resource_link "8919082c-efe8-5543-ae9b-7ebd62646ce9" "PDF" %}})
 
-[Helicobacter pylori](http://en.wikipedia.org/wiki/Helicobacter_pylori)
+{{% resource_link "bb5fd69a-1cab-4ba8-85c2-e2a216996b69" "Helicobacter pylori" %}}
 
-[Bacteria of medical importance](http://textbookofbacteriology.net/medical.html)
+{{% resource_link "4c987478-0dba-4080-81d8-3cc1f2d4d76b" "Bacteria of medical importance" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -161,9 +161,9 @@ Salas-Marco, J., and D. M. Bedwell. "Discrimination Between Defects in Elongatio
 
 {{< tdclose >}}{{< tdopen >}}
 
-[Muscular dystrophy](https://web.archive.org/web/20071209001153/http://www.hmc.psu.edu/healthinfo/m/musculardystrophy.htm)
+{{% resource_link "4c97243c-8aca-440d-821b-589f6e4c514c" "Muscular dystrophy" %}}
 
-[Muscular dystrophy](http://en.wikipedia.org/wiki/Muscular_dystrophy)
+{{% resource_link "3fe03f90-a328-48f8-83c1-db2769b2da68" "Muscular dystrophy" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -223,7 +223,7 @@ Epilogue
 
 Oral presentations and evaluation of 2nd assignments.
 
-General discussion: "[The Protein Primer](http://www.youtube.com/watch?v=WTRmvnlNVw4)" Movie by Paul Berg who won The Nobel Prize in Chemistry in 1980.
+General discussion: "{{% resource_link "e3496d46-ed69-49ef-995a-c511103680eb" "The Protein Primer" %}}" Movie by Paul Berg who won The Nobel Prize in Chemistry in 1980.
 
 On an open field at Stanford University in 1971, several hundred students convened to undulate and impersonate molecules undergoing protein synthesis by a ribosome. A few were trained dancers, wearing costumes and colored balloons to identify their roles; most were recruited with the promise of fun and refreshments.
 
